@@ -24,3 +24,6 @@ bandwidth consumption, mining robot mass, robot energy spent, dust tolerance des
 tolerant operation, and autonomy are examples of these systems.
 
 In this repository is the accumulation of the code that was used to operate and test the rover and its parts. 
+
+<img width="618" alt="Screenshot 2024-03-26 at 7 12 40 PM" src="https://github.com/AlyssaBr/TEAM-HADES-NASA-Lunabotics-2022/assets/148839608/fc5f83f8-daf4-41d8-b11a-23dc59548e13">
+
